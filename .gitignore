@@ -1,0 +1,7 @@
+*.log
+docs/User_Manual/
+*-*.txt
+src/styles.css
+docs/Software_Requirement_Specification/*_final.docx
+docs/Software_Design_Document/*_final.docx
+docs/*/README.md				# Probably a more general version: /README
